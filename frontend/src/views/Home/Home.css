@@ -1,0 +1,9 @@
+.home {
+    position: relative;
+}
+
+.home__text-create {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 19px;
+}

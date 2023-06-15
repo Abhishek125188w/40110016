@@ -1,0 +1,15 @@
+.search-autocomplete__item {
+    width: 100%;
+}
+
+@media (min-width: 576px) {
+    .search-autocomplete__item {
+        width: 48%;
+    }
+}
+
+@media (min-width: 768px) {
+    .search-autocomplete__item {
+        width: 22.5%;
+    }
+}
